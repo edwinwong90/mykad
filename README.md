@@ -1,14 +1,14 @@
 # mykad
-Malaysia Identity Card validation
+Library to validate, retrive meta info Malaysia Identity Card (MyKad)
 
 ## Installation
 ```javascript
-npm install @edwinwong90/mykad
+npm install malaysia-mykad
 ```
 
 ## Usage
 ```javascript
-import mykad from '@edwinwong90/mykad'
+import mykad from 'malaysia-mykad'
 
 const mykad = new mykad(891225085673)
 ```
