@@ -1,5 +1,5 @@
 {
-  "name": "mykad",
+  "name": "@edwinwong90/mykad",
   "version": "1.0.0",
   "description": "Malaysia Identity Card Validation",
   "main": "src/index.js",
